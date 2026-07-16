@@ -1,0 +1,4 @@
+../drivers/Src/stm32f407xx_timer_driver.c:26:6:TIMER_PeriClockControl	10
+../drivers/Src/stm32f407xx_timer_driver.c:66:6:TIMER_Init	1
+../drivers/Src/stm32f407xx_timer_driver.c:82:6:TIMER_Start	1
+../drivers/Src/stm32f407xx_timer_driver.c:88:10:TIMER_GetCounter	1

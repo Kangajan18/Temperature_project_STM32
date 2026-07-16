@@ -1,0 +1,11 @@
+../drivers/Src/ili9341_driver.c:45:13:ILI9341_Delay	2
+../drivers/Src/ili9341_driver.c:49:13:ILI9341_WriteCommand	1
+../drivers/Src/ili9341_driver.c:56:13:ILI9341_WriteData	1
+../drivers/Src/ili9341_driver.c:63:6:ILI9341_Init	1
+../drivers/Src/ili9341_driver.c:249:6:ILI9341_SetWindow	1
+../drivers/Src/ili9341_driver.c:265:6:ILI9341_DrawPixel	1
+../drivers/Src/ili9341_driver.c:273:6:ILI9341_FillScreen	2
+../drivers/Src/ili9341_driver.c:281:6:ILI9341_ClearArea	2
+../drivers/Src/ili9341_driver.c:319:6:ILI9341_DrawChar	26
+../drivers/Src/ili9341_driver.c:370:6:ILI9341_DrawString	2
+../drivers/Src/ili9341_driver.c:381:6:ILI9341_DrawRect	1
